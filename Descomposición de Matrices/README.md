@@ -13,5 +13,7 @@ K se refiere al número de componentes principales que se mantienen al realizar 
 Primero se tiene que crear la matriz que se quiere reducir, despues con la ayuda de numpy calculamos U,s y V.
 
 Regresando estos resultados:
+
 ![](/Descomposición%20de%20Matrices/Resultado.JPG)
+
 Como se puede ver la matriz fue reducida, con valores muy similares a la original.
