@@ -1,4 +1,4 @@
-#Descomposicion de matrices
+# Descomposicion de matrices
 El algoritmo de Descomposición en Valores Singulares (DVS) es una aproximación a la descomposición de una matriz, lo cual nos ayuda en la reducción de una matriz cuadrada a cualquier otro tipo de matriz.
 ![Formula](https://miro.medium.com/v2/resize:fit:286/format:webp/0*eRpo9q5zMToD52Tl)
 Sabiendo esto, volviendo a la fórmula, notamos entonces que M sería la matriz m x n que deseamos descomponer, U es la matriz singular izquierda que contiene a los vectores propios de la matriz.
