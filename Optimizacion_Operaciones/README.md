@@ -18,12 +18,12 @@ El objetivo del descenso de gradiente es minimizar la función de costo, o el er
 
 ![](/Optimizacion_Operaciones/Codigo2.JPG)
 
-Creamos datos sintéticos donde la variable dependiente y es una función lineal de la variable independiente X.
-Definimos un modelo de regresión lineal simple.
-Utilizamos el error cuadrático medio como función de costo.
-Utilizamos el Descenso de Gradiente Estocástico (SGD) como optimizador para actualizar los parámetros del modelo.
-Iteramos a través de un número fijo de épocas (iteraciones), realizando pasos de forward y backward en cada iteración.
-Visualizamos la evolución de la pérdida durante el entrenamiento y la regresión lineal resultante.
+- Creamos datos sintéticos donde la variable dependiente y es una función lineal de la variable independiente X.
+- Definimos un modelo de regresión lineal simple.
+- Utilizamos el error cuadrático medio como función de costo.
+- Utilizamos el Descenso de Gradiente Estocástico (SGD) como optimizador para actualizar los parámetros del modelo.
+- Iteramos a través de un número fijo de épocas (iteraciones), realizando pasos de forward y backward en cada iteración.
+- Visualizamos la evolución de la pérdida durante el entrenamiento y la regresión lineal resultante.
 
 ![](/Optimizacion_Operaciones/Resultado1.JPG)
 
