@@ -27,7 +27,7 @@ criterion = nn.MSELoss()
 optimizer = optim.SGD(model.parameters(), lr=0.01)
 
 # Entrenamos el modelo
-num_epochs = 100
+num_epochs = 200
 losses = []
 for epoch in range(num_epochs):
     # Paso de forward: computamos la predicción y el costo

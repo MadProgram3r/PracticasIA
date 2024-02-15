@@ -32,3 +32,7 @@ Se puede ver como la perdida se reduce conforme aumenta la epoca.
 ![](/Optimizacion_Operaciones/Resultado2.JPG)
 
 Podemos ver como la regresión lineal es muy parecida a la verdadera.
+
+![](/Optimizacion_Operaciones/Resultado3.JPG)
+
+Al aumentar las epocas a 200 el resultado es mas preciso.
